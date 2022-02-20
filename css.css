@@ -1,0 +1,18 @@
+.textName{
+    color: #019c9a;
+    font-size: 25px; 
+    font-weight: bold;
+}
+.textName:hover{
+    color: #3eee1b;
+    text-decoration: none;
+}
+.textName:active{
+    color: #ee1bdc;
+    text-decoration: initial;
+}
+
+.container{
+    display: flex;
+    justify-content: flex-end;
+}
